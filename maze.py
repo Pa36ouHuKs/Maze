@@ -1,3 +1,4 @@
+#qwsedrftgyuiopzsxcdvfgbhnjmk,lzxcvbnm,kl.
 from pygame import *
 font.init()
 font1 = font.SysFont('Arial', 70)
